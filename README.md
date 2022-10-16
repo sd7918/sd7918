@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @sd7918
+- 👀 I’m interested in Designing and devloved website ...
+- 🌱 I’m currently learning Web devlovment,Cyber Security...
+- 💞️ I’m looking to collaborate on a good company...
+- 📫 How to reach me 
+- email -sd7918@srmist.edu.in/sanjudas1334@gmail.com
+- linkdin-https://www.linkedin.com/in/sanju-das-b1a450234/
+- instagram-https://www.instagram.com/das_sanju_/ ...
+
+<!---
+sd7918/sd7918 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
